@@ -1,2 +1,1 @@
-# Lookus84_microservices
-Lookus84 microservices repository
+Выполнено ДЗ Docker-2.  Основное.
