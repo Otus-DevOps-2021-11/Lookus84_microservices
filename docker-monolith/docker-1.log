@@ -1,0 +1,11 @@
+host #docker images
+REPOSITORY             TAG       IMAGE ID       CREATED         SIZE
+oleg/ubuntu-tmp-file   latest    6a147348606a   6 seconds ago   63.1MB
+nginx                  latest    dd34e67e3371   8 days ago      133MB
+ubuntu                 18.04     39a8cfeef173   4 weeks ago     63.1MB
+hello-world            latest    d1165f221234   5 months ago    13.3kB
+
+
+
+Контейнер от образа отличается тем, что:
+контейнер - это запущенный образ, но уже со слоем merged (используется драйвер overlay2)
